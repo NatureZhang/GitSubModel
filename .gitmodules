@@ -1,0 +1,3 @@
+[submodule "LShell"]
+	path = LShell
+	url = https://github.com/NatureZhang/LShell.git
